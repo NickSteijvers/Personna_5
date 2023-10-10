@@ -1,0 +1,134 @@
+body{
+    background-color: #FFFFFF;
+    font-family: 'Inika', serif;
+    margin:auto;
+}
+
+.content {
+    max-width: 1500px;
+    margin: auto;
+}
+
+#pageContainer
+{
+  float: left;
+  background-color: #FFFFFF;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#gray_box
+{
+    float: left;
+    background-color: #d9d9d9;
+    width: 1454px;
+    height: 695px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    
+}
+
+#white_box
+{
+    float: left;
+    background-color: #FFFFFF;
+    width: 1388px;
+    height: 633px;
+    padding:20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+
+#gray_box_yt
+{
+    float: left;
+    background-color: #d9d9d9;
+    width: 448px;
+    height: 327px;
+    margin-top: -120px;
+    margin-left: 90px;
+}
+
+.Circle {
+    height: 190px;
+    width: 177px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 140px;
+}
+
+#galaOutfit {
+    float: left;
+    height: 270px;
+    width: 144px;
+    margin-left: 60px;
+}
+
+#hond {
+    float: left;
+    height: 146px;
+    width: 471px;
+    margin-left: 60px;
+    margin-top: -10px;
+}
+
+#zwaard{
+    float: left;
+    height:305px;
+    width:168px;
+    margin-top: 50px;
+}
+
+#kasteel{
+    float: left;
+    height: 224px;
+    width: 375px;
+    margin-left: 200px;
+}
+
+#sushi {
+    float: left;
+    height: 213px;
+    width: 139px;
+    margin-left: 50px;
+}
+
+#code {
+    float: left;
+    height: 208px;
+    width: 199px;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+
+#achtbaan {
+    float: left;
+    height: 149px;
+    width: 417px;
+    margin-top: 10px;
+    margin-right: 160px;
+}
+
+#familie{
+    float: left;
+    height: 134px;
+    width: 317px;
+}
+
+.reset{
+    clear: both;
+}
+
+#mainHeading{
+    margin-left: 90px;
+}
+
+#youtube{
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
